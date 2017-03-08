@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 sudo apt-get update
-sudo apt-get upgrade
+sudo apt-get -y upgrade
 
 # install openjdk-8
 sudo add-apt-repository ppa:openjdk-r/ppa
